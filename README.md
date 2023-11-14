@@ -79,8 +79,5 @@ or
 |**R**|The argument received is expected to be a pointer type char * to an array of characters.  Characters from this array  are  encoded  to  ROT13  and printed in order up to (but not including a null byte  ('\0').  |
 
 ## **Author**
-## Laila Elmakhloufi
-## Yassir Boukhima Yassir Boukhima
-## ok
-## mzn
-
+## Laila Elmakhloufi  [Laila Elmakhloufi](https://github.com/Laila02012001).
+## Yassir Boukhima [Yassir Boukhima](https://github.com/Art-OF-Work).
